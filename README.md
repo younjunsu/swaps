@@ -36,4 +36,3 @@ Shared Memory ID: 16 Swap Usage: 2576052 KB ( 20.45% )
 Mem:       16247600      766292    11844388     3382136     3636920    11802540
 Swap:      12595192     2735100     9860092
 OS Swap Used Percent : 21.91%
-![Uploading image.png…]()
